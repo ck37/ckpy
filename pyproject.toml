@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ckpy"
+version = "0.1.0"
+description = "Personal utility library"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "scipy",
+]
+
+[dependency-groups]
+test = ["pytest>=8"]
+docs = ["pdoc"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
