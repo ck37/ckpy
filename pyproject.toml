@@ -13,8 +13,9 @@ dependencies = [
 ]
 
 [dependency-groups]
-test = ["pytest>=8"]
+test = ["pytest>=8", "scikit-learn"]
 docs = ["pdoc"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+markers = ["slow: simulation-based coverage tests (deselected by default)"]
