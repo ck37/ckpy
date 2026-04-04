@@ -150,6 +150,10 @@ def nadeau_bengio_cv_ci(
     in Knowledge Discovery and Data Mining (PAKDD), Lecture Notes in
     Computer Science, 3056, 3-12.
 
+    Dudoit, S. and van der Laan, M.J. (2005). Asymptotics of cross-
+    validated risk estimation in estimator selection and performance
+    assessment. Statistical Methodology, 2(2), 131-154.
+
     LeDell, E., Petersen, M., and van der Laan, M. (2015).
     Computationally efficient confidence intervals for cross-validated
     area under the ROC curve estimates. Electronic Journal of

@@ -64,6 +64,8 @@ Nadeau, C. and Bengio, Y. (2003). Inference for the generalization error. *Machi
 
 Bouckaert, R.R. and Frank, E. (2004). Evaluating the replicability of significance tests for comparing learning algorithms. In *Advances in Knowledge Discovery and Data Mining* (PAKDD), Lecture Notes in Computer Science, 3056, 3-12.
 
+Dudoit, S. and van der Laan, M.J. (2005). Asymptotics of cross-validated risk estimation in estimator selection and performance assessment. Statistical Methodology, 2(2), 131-154.
+
 LeDell, E., Petersen, M., and van der Laan, M. (2015). Computationally efficient confidence intervals for cross-validated area under the ROC curve estimates. *Electronic Journal of Statistics*, 9(1), 1583-1607.
 
 Benkeser, D., Petersen, M., and van der Laan, M.J. (2020). Improved small-sample estimation of nonlinear cross-validated prediction metrics. *Journal of the American Statistical Association*, 115(532), 1917-1932.
